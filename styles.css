@@ -1,2 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
 
-/* Your CSS Code here. */
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    color: #333;
+}
+
+section {
+    margin-top: 25px;
+}
